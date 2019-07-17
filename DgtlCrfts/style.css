@@ -1,0 +1,105 @@
+
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+header {
+    background-image: url('img/atl.png');
+    background-size: cover;
+    }
+
+nav ul {
+    text-align: right;
+    margin-top: 0;
+    margin-right: 25%;
+    padding-top: 10px;
+    font-size: 12px;
+}
+nav ul li {
+    display: inline-block;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: right;
+}
+
+.banner{
+    text-align: center;
+}
+
+.banner .logo{
+    width: 150px;
+    margin-top: 120px;
+}
+
+.header-text {
+    margin-bottom: 230px;
+}
+.header-text h1{
+    color: white;
+    font-size: 3.2em;
+    margin-top: 25px;
+    margin-bottom: 18px;
+}
+
+.header-text p{
+    color: white;
+    font: 14px;
+}
+
+.banner .arrow{
+    width: 30px;
+    margin-bottom: 10px;
+}
+
+main{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 55px;
+}
+
+main h2{
+    text-align: center;
+    margin-top: 55px;
+    margin-bottom: 55px;
+    font-size: 2em;
+    font-weight: 100;
+}
+
+.main-boxes div {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+
+.main-boxes p{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.main-boxes h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+footer{
+    background-color: #515151;
+    color: white;
+    text-align: center;
+}
+
+footer ul{
+   padding-left: 0;
+}
+
+footer ul li{
+    display: inline-block;
+    padding: 30px 45px 0;
+}
+
+footer p{
+    color: gray;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
